@@ -197,3 +197,5 @@ class Snake:
                 self.direction = ''
                 break
         return self.GAME_OVER
+
+    
